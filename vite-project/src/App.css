@@ -1,12 +1,12 @@
 
 #root{
-  min-width: 350px;
-  width: 40%;
-  min-height: 100vh;
   background-image: url("./lanadelrey.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  width: 40%;
+  min-width: 350px;
+  min-height: 100vh;
   display: flex;
   position: relative;
 }
